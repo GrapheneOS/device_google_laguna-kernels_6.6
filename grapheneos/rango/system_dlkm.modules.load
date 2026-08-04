@@ -33,6 +33,8 @@ kernel/drivers/net/usb/usbnet.ko
 kernel/drivers/net/usb/cdc_ncm.ko
 kernel/drivers/net/usb/aqc111.ko
 kernel/drivers/net/usb/r8153_ecm.ko
+kernel/drivers/usb/host/xhci-pci.ko
+kernel/drivers/usb/host/xhci-pci-renesas.ko
 kernel/drivers/usb/mon/usbmon.ko
 kernel/drivers/usb/class/cdc-acm.ko
 kernel/drivers/usb/serial/usbserial.ko
